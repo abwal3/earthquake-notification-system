@@ -1,4 +1,4 @@
-
+package models;
 /**
 * A basic singly linked list implementation.
 *
