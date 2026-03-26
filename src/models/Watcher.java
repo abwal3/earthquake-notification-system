@@ -1,3 +1,4 @@
+package models;
 /*
 this class stores watchers and their locations with private attributes
 setters and getters and to string to be able to print the messages
