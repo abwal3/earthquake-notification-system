@@ -1,4 +1,4 @@
-
+package models;
 
 /**
  * A basic doubly linked list implementation.
