@@ -1,3 +1,4 @@
+package models;
 /**
  * Represents a simulation event (Watcher update, Earthquake, or Query).
  * This class uses static integer constants to define event types.
