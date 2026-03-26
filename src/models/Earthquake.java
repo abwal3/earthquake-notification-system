@@ -1,3 +1,4 @@
+package models;
 /*
     This class main function is simply storing earthquake info in objects
     each object contains several info "the attributes"
