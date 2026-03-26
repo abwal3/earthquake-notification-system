@@ -1,3 +1,4 @@
+package models;
 //importing these classes so we can use them in reading files (watchers and earthquakes)
 import java.io.BufferedReader;//helps us reading line by line
 import java.io.FileReader;//storing the files and put them in the buffered reader
